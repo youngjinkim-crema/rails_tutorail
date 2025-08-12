@@ -1,3 +1,3 @@
 class Product < ApplicationRecord
-    validates :name, presence: truereload!
+    validates :name, presence: true
 end
